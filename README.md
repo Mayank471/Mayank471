@@ -110,12 +110,13 @@ Built a multi-stage comic-panel-to-audio pipeline under Prof. Romi Banerjee, rea
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mayank471&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=e6edf3" alt="Mayank's GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank471&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=e6edf3" alt="Top languages" />
+<a href="https://github.com/Mayank471?tab=repositories"><img src="https://img.shields.io/github/public-repos/Mayank471?style=for-the-badge&logo=github&label=Public%20repositories&color=6EE7B7" alt="Public repositories" /></a>
+<a href="https://github.com/Mayank471?tab=followers"><img src="https://img.shields.io/github/followers/Mayank471?style=for-the-badge&logo=github&label=Followers&color=6EE7B7" alt="GitHub followers" /></a>
+<a href="https://github.com/Mayank471"><img src="https://img.shields.io/github/created-at/Mayank471/Mayank471?style=for-the-badge&logo=github&label=Profile%20since&color=6EE7B7" alt="Profile age" /></a>
 
 <br />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Mayank471&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6EE7B7&ring=6EE7B7&fire=F97316&currStreakLabel=6EE7B7&sideLabels=e6edf3&dates=8b949e" alt="GitHub streak" />
+<a href="https://github.com/Mayank471"><img src="https://img.shields.io/github/commit-activity/y/Mayank471/Mayank471?style=for-the-badge&logo=github&label=Profile%20activity&color=6EE7B7" alt="Profile activity" /></a>
 
 </div>
 
@@ -131,13 +132,9 @@ Built a multi-stage comic-panel-to-audio pipeline under Prof. Romi Banerjee, rea
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank471&theme=github_dark" width="100%" alt="Contribution summary" />
-
-<br />
-
 ### 🐍 Contribution motion
 
-<img src="https://raw.githubusercontent.com/Mayank471/Mayank471/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+<img src="https://raw.githubusercontent.com/Mayank471/Mayank471/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 
 <br />
 <br />
