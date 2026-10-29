@@ -110,7 +110,7 @@ Built a multi-stage comic-panel-to-audio pipeline under Prof. Romi Banerjee, rea
 
 <div align="center">
 
-<a href="https://github.com/Mayank471?tab=repositories"><img src="https://img.shields.io/github/public-repos/Mayank471?style=for-the-badge&logo=github&label=Public%20repositories&color=6EE7B7" alt="Public repositories" /></a>
+<a href="https://github.com/Mayank471"><img src="https://img.shields.io/github/last-commit/Mayank471/Mayank471?style=for-the-badge&logo=github&label=Last%20profile%20update&color=6EE7B7" alt="Last profile update" /></a>
 <a href="https://github.com/Mayank471?tab=followers"><img src="https://img.shields.io/github/followers/Mayank471?style=for-the-badge&logo=github&label=Followers&color=6EE7B7" alt="GitHub followers" /></a>
 <a href="https://github.com/Mayank471"><img src="https://img.shields.io/github/created-at/Mayank471/Mayank471?style=for-the-badge&logo=github&label=Profile%20since&color=6EE7B7" alt="Profile age" /></a>
 
