@@ -131,7 +131,13 @@ Built a multi-stage comic-panel-to-audio pipeline under Prof. Romi Banerjee, rea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank471&bg_color=0d1117&color=6EE7B7&line=6EE7B7&point=ffffff&area=true&area_color=6EE7B7&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mayank471&theme=github_dark" width="100%" alt="Contribution summary" />
+
+<br />
+
+### 🐍 Contribution motion
+
+<img src="https://raw.githubusercontent.com/Mayank471/Mayank471/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 
 <br />
 <br />
